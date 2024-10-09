@@ -28,6 +28,7 @@ This is a simple Notes app built with Python, Flask, SQLAlchemy, and Flask-Login
 - View or delete notes. 
 
 **Project Structure**
+```
 notes-app/
 │
 ├── app.py              # Main Flask app
@@ -41,6 +42,7 @@ notes-app/
 │   └── index.js        # Custom styles
 ├── README.md           # Project documentation
 └── .gitignore          # Ignore unnecessary files in Git
+```
 
 **Future Improvements**
 - **Edit Notes:** Add functionality to update existing notes.
