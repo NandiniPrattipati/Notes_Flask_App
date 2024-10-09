@@ -1,0 +1,11 @@
+# Ignore the virtual environment
+env_flask/
+
+# Ignore Python bytecode files
+*.pyc
+
+# Ignore cached files
+__pycache__/
+
+# Ignore other IDE-specific files if needed
+.vscode/
