@@ -32,15 +32,13 @@ notes-app/
 │
 ├── app.py              # Main Flask app
 ├── models.py           # SQLAlchemy models (User and Note)
-├── forms.py            # Flask-WTF forms
 ├── templates/          # HTML templates
 │   ├── base.html       # Base template
 │   ├── home.html       # Notes list page
 │   ├── login.html      # Login page
 │   └── signup.html     # Signup page
 ├── static/             # Static files (CSS, JS, images)
-│   └── main.css        # Custom styles
-├── requirements.txt    # List of dependencies
+│   └── index.js        # Custom styles
 ├── README.md           # Project documentation
 └── .gitignore          # Ignore unnecessary files in Git
 
