@@ -21,6 +21,17 @@ This is a simple Notes app built with Python, Flask, SQLAlchemy, and Flask-Login
 - **Python 3.x**
 - **Virtual Environment(optional but recommended)**
 
+**Create and Activate Virtual Environment:**
+**For Windows:**
+- python -m venv venv      # to create a virtual env
+- venv\Scripts\activate    # to activate it
+**For Mac OS:**
+- python3 -m venv venv     # to create a virtual env
+- source venv/bin/activate # to activate it
+
+**Install required packages mentioned in requirements.txt file:**
+ - pip install -r requirements.txt
+
 **Usage**
 - **Signup** for a new account on the "Sign Up" page.
 - **Login** with your credentials.
