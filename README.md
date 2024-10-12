@@ -22,7 +22,7 @@ This is a simple Notes app built with Python, Flask, SQLAlchemy, and Flask-Login
 - **Virtual Environment(optional but recommended)**
 
 **Usage**
-- **Signup** for a new accoutn on the "Sign Up" page.
+- **Signup** for a new account on the "Sign Up" page.
 - **Login** with your credentials.
 - Create a new notes on the home page.
 - View or delete notes. 
